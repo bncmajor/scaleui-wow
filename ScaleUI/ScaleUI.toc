@@ -1,0 +1,8 @@
+## Interface: 11600
+## Title: ScaleUI
+## Notes: Resolution-aware UI scale manager with presets
+## Author: bncmajor
+## Version: 1.0
+## SavedVariables: ScaleUIDB
+
+ScaleUI.lua
